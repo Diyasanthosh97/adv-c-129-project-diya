@@ -1,0 +1,23 @@
+.heading{
+    font-style:italic ;
+    margin:0px;
+    font-size: 25px;
+}
+.note{
+    font-size:20px;
+    color:black;
+}
+.play_btn{
+    width:150px;
+    font-size: 20px;
+}
+body{
+    background-size:cover;
+
+}
+canvas{
+    border-width: 6px;
+    border-style: inset;
+    border-color: aqua;
+    border-radius: 55px;
+}
